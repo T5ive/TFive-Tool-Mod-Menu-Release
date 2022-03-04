@@ -16,6 +16,7 @@
 
 
 May have to pay for some features, Not sure may be free
+
 Doesn't Open-Source
 
-may release 20 Mars
+May release 20 Mars
