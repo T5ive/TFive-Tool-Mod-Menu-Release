@@ -27,7 +27,3 @@ For mod not running by TFive Tool Mod Menu (it's not your fault) upload original
 # Known Issue
 
 - Does not work on 32 bit
-
-# Contact
-
-- [Discord Server](https://discord.gg/hwJ6mxgFFR)
